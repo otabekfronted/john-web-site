@@ -73,6 +73,8 @@ a {
 }
 
 .sitenav {
+    /* display: inline; */
+    /* columns: deserunt; */
 }
 .site-item-list {
     display: flex;
